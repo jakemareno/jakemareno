@@ -3,10 +3,13 @@
 
 👀 I’m interested in ...
 - Classical piano
+- Origami
 - Hip Hop
-- Lifting
+- Working Out
 
 🌱 I’m currently learning ...
 - data structures and algorithms
 - high level python and java
-- basic c++
+- basic c++ and R
+- git
+
