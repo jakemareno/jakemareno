@@ -1,15 +1,15 @@
 
 👋 Hi, I’m @jakemareno
 
-👀 I’m interested in ...
-- Classical piano
-- Origami
-- Hip Hop
-- Working Out
-
 🌱 I’m currently learning ...
-- data structures and algorithms
-- high level python and java
-- basic c++ and R
+- Advanced Java and Python
+- DSA/Leetcode
+- Basic C/C++
 - git
+- CLI
 
+👀 I’m interested in ...
+- Classical piano 🎹
+- Origami 📃
+- Hip Hop 🎧
+- Weightlifting 🏋️
